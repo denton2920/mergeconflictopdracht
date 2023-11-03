@@ -30,12 +30,14 @@ function start()
 
 }
 
+
 start()
 
-function student1Haiku(){
+function Haiku(){
     console.log("haiku by:","Docent");
     console.log("Panda in the mist");
     console.log("Gently chewing on bamboo");
     console.log("Perfect breakfast time");
 }
-student1Haiku()
+Haiku()
+
